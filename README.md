@@ -37,7 +37,7 @@ I am a scientist and the lead architect of **Smokelyze**, a platform dedicated t
 
 ---
 
-### 🌟 Project Spotlight: <a href="https://smokelyze.netlify.app/" target="_blank">Smokelyze</a>
+### 🌟 Project Spotlight: [Smokelyze](https://smokelyze.netlify.app/)
 **Advanced Spatiotemporal Analytics for Wildfire Smoke & Air Quality**
 
 Smokelyze (formerly PMO3smokeTool) is a cutting-edge platform designed to quantify the impact of wildfire emissions on surface Ozone (O3) and PM2.5 across the United States.
