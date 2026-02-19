@@ -1,4 +1,4 @@
-# <p align="center">🌪️ Haebum Lee, Ph.D.</p>
+# <p align="center"> Haebum Lee, Ph.D.</p>
 
 <p align="center">
   <b>Lead Developer & Researcher | Postdoctoral Scholar @ University of Washington</b>
@@ -38,25 +38,30 @@ I am a scientist and the lead architect of **Smokelyze**, a platform dedicated t
 ---
 
 ### 🌟 Project Spotlight: [Smokelyze](https://smokelyze.com)
-**The next generation of Wildfire Smoke Analytics.**
-- **Cloud-Native Framework:** Modular Docker architecture on Google Cloud Run.
-- **Data Pipeline:** Automated API-driven acquisition from AirNow & Satellite data.
-- **Scientific Rigor:** Powered by the Generalized Additive Model (GAM) for precision insights.
+**Advanced Spatiotemporal Analytics for Wildfire Smoke & Air Quality**
+
+Smokelyze (formerly PMO3smokeTool) is a cutting-edge platform designed to quantify the impact of wildfire emissions on surface Ozone (O3) and PM2.5 across the United States.
+
+- **Scientific Core:** Leverages the **Generalized Additive Model (GAM)** to disentangle complex meteorological factors from wildfire impacts.
+- **Unified Data Pipeline:** Automated acquisition from multi-faceted streams—AirNow ground stations, satellite-detected HMS smoke polygons, and real-time wildfire news.
+- **Cloud-Native Infrastructure:** 
+  - **Modular Architecture:** Each stage (ingestion to modeling) is encapsulated in separate **Docker** containers.
+  - **Scalable Deployment:** Runs on **Google Cloud Run** with massive datasets stored in **GCS**, ensuring rapid retrieval for the rendering engine.
+- **Modeling & Prediction:** Periodic R-scripts integrate **MERRA-2, TROPOMI, and HYSPLIT** data for advanced smoke impact analysis.
+- **Interactive Analytics:** Features visual mapping tools, synchronized data tables, ParCoords, and scatter plots for multi-dimensional analysis.
 
 ---
 
 ### 🎓 Academic Path
-- **Postdoc** | Jaffe Research Group, University of Washington | 2023.04 – Present
-- **Postdoc & PhD** | GIST (Air Quality Monitoring) | 2016.03 – 2023.03
-- **BS** | Kyung Hee University (Chemistry) | 2010.03 – 2016.02
-
----
-
-### 📊 Performance Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haebum1991&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haebum1991&layout=compact&theme=tokyonight" width="48%" />
-</p>
+- **Postdoctoral Scholar** | Jaffe Research Group, University of Washington (UW) | 2023.04 – Present
+  - *Focus: Spatiotemporal analytics for wildfire smoke and air quality.*
+- **Postdoctoral Researcher** | Center for PM2.5 Monitoring Research, GIST | 2022.08 – 2023.03
+  - *Focus: Comprehensive characteristics and chemical composition of fine particulate matter.*
+- **PhD in Earth Science** | Aerosol Technology Monitoring Lab (ATML), GIST | 2018.09 – 2022.08
+  - *Thesis: New particle formation (NPF) characteristics and machine learning predictive modeling.*
+- **Researcher** | Aerosol Technology Monitoring Lab (ATML), GIST | 2018.03 – 2018.08
+- **MS in Earth Science** | Aerosol Technology Monitoring Lab (ATML), GIST | 2016.03 – 2018.02
+- **BS in Chemistry** | Kyung Hee University | 2010.03 – 2016.02
 
 ---
 
