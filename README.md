@@ -12,14 +12,14 @@
 
 ---
 
-### 🚀 Vision & Expertise
+### Vision & Expertise
 > *"Translating complex atmospheric science into actionable digital tools."*
 
 I am a scientist and the lead architect of **Smokelyze**, a platform dedicated to spatiotemporal analytics for wildfire smoke and air quality. My work bridges the gap between high-level atmospheric research and scalable, interactive software solutions.
 
 ---
 
-### 🧪 Research & Development
+### Research & Development
 - **Wildfire Smoke Analytics:** Precisely quantifying the impact of wildfire emissions on surface Ozone and PM2.5.
 - **Machine Learning Modeling:** Developing GAM and ML models for environmental prediction.
 - **Atmospheric Phenomena:** Studying Arctic aerosol formations and new particle morphology.
@@ -27,7 +27,7 @@ I am a scientist and the lead architect of **Smokelyze**, a platform dedicated t
 
 ---
 
-### 🛠️ Tech Ecosystem
+### Tech Ecosystem
 
 | Infrastructure & DevOps | Data & Modeling | Web & Frontend |
 | :--- | :--- | :--- |
@@ -37,7 +37,7 @@ I am a scientist and the lead architect of **Smokelyze**, a platform dedicated t
 
 ---
 
-### 🌟 Project Spotlight: [Smokelyze](https://smokelyze.netlify.app/)
+### Project Spotlight: [Smokelyze](https://smokelyze.netlify.app/)
 **Advanced Spatiotemporal Analytics for Wildfire Smoke & Air Quality**
 
 Smokelyze (formerly PMO3smokeTool) is a cutting-edge platform designed to quantify the impact of wildfire emissions on surface Ozone (O3) and PM2.5 across the United States.
@@ -52,7 +52,7 @@ Smokelyze (formerly PMO3smokeTool) is a cutting-edge platform designed to quanti
 
 ---
 
-### 🎓 Academic Path
+### Academic Path
 - **Postdoctoral Scholar** | Jaffe Research Group, University of Washington (UW) | 2023.04 – Present
   - *Focus: Spatiotemporal analytics for wildfire smoke and air quality.*
 - **Postdoctoral Researcher** | Center for PM2.5 Monitoring Research, GIST | 2022.08 – 2023.03
@@ -65,7 +65,7 @@ Smokelyze (formerly PMO3smokeTool) is a cutting-edge platform designed to quanti
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/haebum-lee-683731305/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/haebum1991/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
